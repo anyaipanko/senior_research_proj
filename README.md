@@ -1,5 +1,5 @@
-# senior_research_proj
-Fall 2025 Senior Research project repository
+#Senior Research Project
+Fall 2025 Senior Research Project Website
 
 Project objective: placeholder
 
