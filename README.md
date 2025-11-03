@@ -1,6 +1,5 @@
+# Fall 2025 Senior Research Project Website
 
-#Fall 2025 Senior Research Project Website
+**Project objective:** placeholder
 
-Project objective: placeholder
-
-Background/relevant papers?
+*Background/relevant papers?*
