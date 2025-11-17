@@ -1,0 +1,24 @@
+Category,Query,Expected/ verfied answer,,Sources
+BarBri,,,,
+BarBri,"A chef wanted to open his own restaurant and a contractor offered to build the
+place for $160,000. Their written contract provided that the chef would pay the
+contractor $60,000 in cash when construction commenced, scheduled for April 15 after the spring thaw. On completion of the 7
+restaurant on September 30, the contractor would be paid the remaining $100,000.
+The region had a late spring, and on April 30 the contractor had not yet commenced
+construction of the restaurant.
+Has the contractor breached the contract? ","No, and the chef not need make the $60,000 payment. ",,"BarBri Simulated MBE July 2023, February 2024"
+BarBri,,,,
+BarBri,,,,
+Contracts Q&A,"Is this a severability clause? If any provision of this Agreement is determined to be invalid or unenforceable by a court of competent jurisdiction, the parties agree that the court should endeavor to give effect to the parties intentions as reflected in the provision, and that the other provisions of this Agreement shall remain in full force and effect.",Yes,,
+Contracts Q&A,"Does the clause discuss CIPA policy? This Agreement may be executed with one or more counterparts, each of which shall be deemed an original but all of which together shall constitute one and the same instrument. ",No,,
+Contracts Q&A,,,,
+Contracts Q&A,,,,
+False Prem,,,,
+False Prem,,,,
+False Prem,,,,
+False Prem,,,,
+SCALR,,,,
+SCALR,,,,
+SCALR,,,,
+SCALR,,,,
+,,,,
