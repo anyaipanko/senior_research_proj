@@ -4,5 +4,5 @@
 
 Relevant papers: 
 + [LEGALBENCH: A COLLABORATIVELY BUILT BENCHMARK FOR MEASURING LEGAL REASONING IN LARGE LANGUAGE MODELS] (https://arxiv.org/pdf/2308.11462) 
-+[Zero Data Retention in LLM-based Enterprise AI Assistants: A Comparative Study of Market Leading Agentic AI Products] (https://arxiv.org/abs/2510.11558)
++ [Zero Data Retention in LLM-based Enterprise AI Assistants: A Comparative Study of Market Leading Agentic AI Products] (https://arxiv.org/abs/2510.11558)
 
