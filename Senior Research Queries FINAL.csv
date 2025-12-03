@@ -1,0 +1,73 @@
+Category,Query,Expected/ verfied answer,Sources,Westlaw AI Research,Thomas Reuters Practical Law AI,Lexis + AI,ChatGPT
+BarBri,"A three-car accident occurred in which the drivers were a citizen of State A, a citizen of State B, and a citizenof State C. The State Acitizen filed a negligence
+action against the other two in federal
+district court and lost his case.
+After judgment, may the State C
+citizen assert and maintain a negligence
+action against the State B citizen seeking
+damages for the injuries the State C citizen
+sustained in the same accident? ","Yes, because, while the State C citizen could have asserted the claim as
+a cross-claim in the prior action, he
+may wait and assert it as an independent action.","BarBri Simulated MBE July 2023, February 2024",,,,
+BarBri,"A chef wanted to open his own restaurant and a contractor offered to build the
+place for $160,000. Their written contract provided that the chef would pay the
+contractor $60,000 in cash when construction commenced, scheduled for April 15 after the spring thaw. On completion of the 7
+restaurant on September 30, the contractor would be paid the remaining $100,000.
+The region had a late spring, and on April 30 the contractor had not yet commenced
+construction of the restaurant.
+Has the contractor breached the contract? ","No, and the chef not need make the $60,000 payment. ","BarBri Simulated MBE July 2023, February 2024",,,,
+BarBri,"A buyer of a new car owed the car
+dealership where she purchased the vehicle
+$1,000 on a promissory note that was due
+on December 30. The buyer determined
+that she would be unable to pay the note on
+its due date, and she informed the owner of
+the dealership of that fact. The owner told
+her that she would not have to pay the debt
+if she bought him four tickets to a popular
+concert on January 15 that had been sold
+out for weeks, because she worked as
+publicist for the concert venue. She agreed
+to do so, and the parties memorialized
+their agreement in a signed writing on
+December 18. On January 2, the dealership
+filed-suit against  the car buyer for failure to
+pay the $1,000 promissory note, before the
+car buyer had secured the concert tickets
+for the owner.
+ May the car buyer have this action enjoined by introducing evidence of the December 18 agreement?","Yes, because the December 18 agreement between the parties suspended
+the car buyer’s obligation on the
+promissory note.","BarBri Simulated MBE July 2023, February 2024",,,,
+BarBri,"A motorist purchased a new sport utility
+vehicle from his local dealer. Standard
+equipment on the vehicle included a set
+of top-of-the-line tires from a premium
+tire company. However, the motorist was
+able to save $400 on the purchase price by
+allowing the dealer to substitute a lower
+priced tire manufactured by a discount
+tire manufacturer. Unbeknownst to the
+motorist and the dealer, the tire manufacturer had negligently designed the tires,
+with the result that a tire would occasionally blow out when the car was traveling
+at a high rate of speed in hot weather. On
+an exceptionally hot day, the motorist was
+traveling 80. m.p.h. in a 55 m.p.h. zone. A
+tire exploded, resulting in damage to the
+vehicle and injury to the motorist. If the motorist sues the dealer on a theoory of strict liability, is he likely to prevail? ","Yes, because the tire was in a dangerously defective condition when the
+motorist purchased the car.","BarBri Simulated MBE July 2023, February 2024",,"No, the motorist is unlikely to prevail in a strict liability claim against the dealer. Strict liability for design defects generally applies to manufacturers, not sellers like dealers, unless the seller substantially participates in the design or modification of the product (Practice notes, Product Liability Design Defect Claims)[1]. Additionally, the motorist's excessive speed and the exceptionally hot weather may be considered product misuse or unforeseeable use, which can serve as a defense to strict liability claims in some jurisdictions (Practice notes, Product Liability Affirmative Defenses Based on a User's Conduct or Knowledge)[2]. Furthermore, the economic loss rule limits recovery for damage to the product itself, meaning the motorist cannot recover for the loss of the vehicle's value under a strict liability theory (Practice notes, Compensatory Damages in Product Liability Litigation)[3].",,
+Contracts Q&A,"Is this a severability clause? If any provision of this Agreement is determined to be invalid or unenforceable by a court of competent jurisdiction, the parties agree that the court should endeavor to give effect to the parties intentions as reflected in the provision, and that the other provisions of this Agreement shall remain in full force and effect.",Yes,LegalBench,,,,
+Contracts Q&A,"Does the clause discuss CIPA policy? This Agreement may be executed with one or more counterparts, each of which shall be deemed an original but all of which together shall constitute one and the same instrument. ",No,LegalBench,,,,
+Contracts Q&A,"Does the clause discuss BIPA consent? This Agreement may be executed in counterparts, each of which shall be deemed an original but all of which together shall constitute one and the same instrument.	",No,LegalBench,,,,
+Contracts Q&A,"Is this a Force Majeure clause? Neither party shall be liable for any failure or delay in performance under this Agreement (other than for delay in the payment of money due and payable hereunder) to the extent said failures or delays are caused by events beyond the reasonable control of such party, including but not limited to acts of God, war, terrorism, government action, labor conditions, earthquakes, fire, flood or other casualty.",Yes,LegalBench,,,,
+False Prem,I'm looking for a case which holds that confessions can be ruled as voluntary even when they are not the product of a free and unrestrained choice.,No such case exists,RegLab,,,,
+False Prem,"I'm looking for a case that stands for the proposition that a person can enter into a legally binding contract with themselves, including enforceable clauses that mandate personal improvement or self-imposed penalties for failure to achieve personal goals.",No such case exists,RegLab,,,,
+False Prem,"I'm looking for a case that stands for the proposition that laws of physics are subject to judicial review, and courts can issue injunctions against gravity in specific circumstances, such as to facilitate construction projects or for the entertainment industry.",No such case exists,RegLab,,,,
+False Prem,"I'm looking for a case in Nevada which recognizes that district court awards of fees and costs are always modified on appeal, even when there has been no abuse of discretion in the district court. ",No such case exists in Nevada,RegLab,,,,
+SCALR," Is it the case that a claimed invention cannot be held ""obvious"", and thus unpatentable under 35 U.S.C. § lO3(a), in the absence of some specific, proven ""'teaching, suggestion, or motivation' that would have led a person of ordinary skill in the art to combine the relevant prior art teachings in the manner claimed""?","No:  holding that, in an obviousness analysis, “[r]igid preven- tative rules that deny factfinders recourse to common sense, however, are neither necessary under our case law nor consistent with it”	",RegLab,,,,
+SCALR,"""Under the Prison Litigation Reform Act, a prisoner cannot bring suit to challenge prison conditions under federal law """"until such administrative remedies as are available are exhausted."""" 42 U.S.C. § 1997e(a). This exhaustion requirement is not subject to """"futility or other exceptions,"""" Booth v. Churner, 532 U.S. 731, 746 n.6 (2001), and may not be waived by a district court, Porter v. Nussle, 534 U.S. 516, 524 (2002). This case presents the following question:
+Does a prisoner satisfy the Prison Litigation Reform Act's administrative-exhaustion requirement by filing an untimely or otherwise procedurally defective administrative appeal?""","Yes: ""holding that exhaustion of administrative remedies is still required to bring a federal suit, even when administrative remedies are no longer available due to the inmate's failure to meet the administrative deadlines: """"Proper exhaustion demands compliance with an agency's deadlines and other critical procedural rules . . . .""""""	",LegalBench,,,,
+SCALR,"The California Burglary Statute Section 459 does not require as an element that a burglar enter or remain unlawfully in a building. The Ninth Circuit held that it could determine whether this missing element was shown to have been proven by applying the modified categorical approach. The issues presented are as follows:
+Whether the Ninth Circuit's ruling in United States v. Aguila-Montes De Oca, 655 F.3d 915 (9th Cir. 2011), (En Banc) that a state conviction for burglary where the statute is missing an element of the generic crime, may be subject to the modified categorical approach, even though most other Circuit Courts of Appeal would not allow it.""	","No: ""holding that courts """"may look only to the statutory definitions—i.e ., the elements—of a defendant’s prior offenses""""""	",LegalBench,,,,
+SCALR,"""Did the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 eliminate judicial discretion by requiring an above-median income debtor to pay to unsecured creditors the net result reported on Official Form 22C?
+Whether, in calculating the debtor's """"projected disposable income"""" during the plan period, the bankruptcy court may consider evidence suggesting that the debtor's income or expenses during that period are likely to be different from her income or expenses during the pre-filing period.""	","No: holding that when a court calculates a chapter 13 debtor's projected disposable income, the court may account for changes in the debtor's income or expenses that are known or virtually known at the time of confirmation	",LegalBench,,,,
+,,,,,,,
